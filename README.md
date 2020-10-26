@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+This is simple website
+
 ## Introduction
 
 ## Purpose

@@ -17,3 +17,6 @@ As stated above
 ### Copyright
 
 Sample No fast forward
+
+##
+Automatic merge with commit

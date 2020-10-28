@@ -13,3 +13,7 @@ As stated above
 ## Deployment
 
 ## Hot to Contirbute
+
+### Copyright
+
+Sampple No fast forward

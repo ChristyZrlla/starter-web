@@ -16,4 +16,4 @@ As stated above
 
 ### Copyright
 
-Sampple No fast forward
+Sample No fast forward
